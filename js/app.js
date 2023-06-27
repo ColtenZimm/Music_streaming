@@ -11,5 +11,3 @@ console.log(response);
 .catch(err => {
 console.error(err);
 });
-
-var Sqrl = require("squirrelly" 9.0.0)
