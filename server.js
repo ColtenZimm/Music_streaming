@@ -5,3 +5,5 @@ $(document).ready(function() {
   var deezerSearch 
     
 })
+
+var Sqrl = require("squirrelly", 9.0)
