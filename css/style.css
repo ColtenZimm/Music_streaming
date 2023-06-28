@@ -1,18 +1,29 @@
+body{
+    font-family: 'Sans-Seriff';
+        border: solid;
+    border-width: thick;
+}
+
 .content,
-.content1,
+.content1 {
+    width: auto;
+    height: auto;
+    color: #bf0303;
+    flex-flow:wrap-reverse;
+}
 .content2 {
-  color: #fff;
+  color: #bf0303;
   font: 100 24px/100px sans-serif;
   height: 150px;
-  width: 897px;
+  width: 500px;
   text-align: center;
 }
 
 .content div,
 .content1 div,
 .content2 div {
-  height: 50%;
-  width: 300px;
+  height: 10%;
+  width: 150px;
 }
 .red {
   background: red;
@@ -24,7 +35,6 @@
   background: red;
 }
 
-/* Flexbox Styles */
 .content {
   display: flex;
   flex-wrap: wrap;
@@ -35,5 +45,5 @@
 }
 .content2 {
   display: flex;
-  flex-wrap: column-wrap;
+  flex-flow: column-reverse;
 }
