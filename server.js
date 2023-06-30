@@ -1,4 +1,5 @@
 require ("fs")
+require ("dotenv").config()
 (document).ready(function() {
 
     console.log('JS is connected to HTML, and DOM is ready!');
