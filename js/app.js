@@ -11,3 +11,4 @@ console.log(response);
 .catch(err => {
 console.error(err);
 });
+<script src="https://cdn.jsdelivr.net/npm/squirrelly"></script>
