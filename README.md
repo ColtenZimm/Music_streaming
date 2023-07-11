@@ -1,20 +1,23 @@
 # Music_streaming
 this is our project two for the KU coding bootcamp 
 
-# <Your-Project-Title>
+# <TwinkleToesMusicStreamer>
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+Motivation for the project came from music streaming apps like sound cloud, apple music, and spotify.
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+We built this project because we all enjoy music and we wanted to create a website that could link your music or profiles from spotify and other music streaming services.
 - What problem does it solve?
+It was meant to create a more ease of access having all your music from separate platforms their for you to find and listen to.
 - What did you learn?
+We learned that we bit off a bit more than we can chew, but we also learned how the different routes worked for handlebars as well as getting responses from the api. All in all we learned that if we had more time we could achieve what our end goal was but this time it was a bit to much of a stretch.
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -25,6 +28,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
+You will need to install node, handlebars, squirrely, and express. After installing your dependencies youll download the code from the repository and go from their.
+
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
@@ -32,16 +37,20 @@ Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](../Music_streaming/images/Example.png)
+```
+```md
+![alt text](../Music_streaming/images/Loginpage.png)
+```
 
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://github.com/ColtenZimm
+https://github.com/AlxMarz
+https://github.com/alexmin94
+https://github.com/Victoria-19
 
 ## License
 
